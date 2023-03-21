@@ -2,6 +2,7 @@
 
 int main()
 {
+
         int a[3];
 	int b[2];
 	int max, min,min_a, i,x;
